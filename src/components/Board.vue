@@ -1,5 +1,4 @@
 <template>
-　<!-- ここから追加 -->
   <div>
     <header>
       my Trello
@@ -8,7 +7,6 @@
       <p class="info-line">All: 0 tasks</p>
     </main>
   </div>
-  <!-- ここまで追加 -->
 </template>
 
 <script>
